@@ -26,7 +26,7 @@ bcrypt = Bcrypt()
 #requests
 
 
-
+#HOHO your mom
 
 @app.route('/login/', methods=['GET', 'POST'])
 def login():
